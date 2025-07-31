@@ -10,8 +10,8 @@
 &nbsp;
 
 ## Interests
-<p data-ke-size="size16"><b>Binary Analysis, Exploitation</b></p>
-<p data-ke-size="size16"><b>Computational Thinking</b></p>
+<p data-ke-size="size16">Binary Analysis, Exploitation</p>
+<p data-ke-size="size16">Computational Thinking</p>
 &nbsp;
 
 ## EXPERIENCE
