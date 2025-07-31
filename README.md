@@ -1,5 +1,4 @@
 ## Bugeun
-
 <p data-ke-size="size16">
 <b>[2020 - 2023] Seoul Arts University</b>
 </p>
@@ -9,6 +8,11 @@
 </p>
 <p data-ke-size="size14">Vulnerability Analysis Track</p>
 &nbsp;
+
+## Interests
+<p data-ke-size="size16">
+<b>Binary Analysis, Exploitation</b>
+<b>Computational Thinking</b>
 
 ## EXPERIENCE
 <p data-ke-size="size16"><b>[2024.04 - Till now] SK Shieldus | </b> Senior Researcher</p>
