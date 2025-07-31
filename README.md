@@ -11,7 +11,7 @@
 
 ## Interests
 <p data-ke-size="size16">Binary Analysis, Exploitation</p>
-<p data-ke-size="size16">CS for Computational Thinking</p>
+<p data-ke-size="size16">Computer Science</p>
 &nbsp;
 
 ## EXPERIENCE
