@@ -9,11 +9,6 @@
 <p data-ke-size="size14">Vulnerability Analysis Track</p>
 &nbsp;
 
-## Interests
-<p data-ke-size="size16">Binary Analysis, Exploitation</p>
-<p data-ke-size="size16">Computer Science</p>
-&nbsp;
-
 ## EXPERIENCE
 <p data-ke-size="size16"><b>[2024.04 - Till now] SK Shieldus | </b> Senior Researcher</p>
 &nbsp;
