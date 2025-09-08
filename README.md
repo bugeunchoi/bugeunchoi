@@ -47,15 +47,6 @@
 </p>
 &nbsp;
 
-## HOBBY
-
-<p data-ke-size="size16">
-<b>[DJ]</b>
-</p>
-
-<p data-ke-size="size16">
-<b>[Music Producing]</b>
-</p>
 <!--
 **bugeunchoi/bugeunchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
