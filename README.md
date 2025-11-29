@@ -10,9 +10,14 @@
 &nbsp;
 
 ## EXPERIENCE
-<p data-ke-size="size16"><b>[2024.04 - Till now] SK Shieldus | </b> Senior Researcher</p>
+| 기간                     | 회사        | 직책               |
+| ------------------------ | ----------- | ------------------ |
+| [2024.04 - 2025.11]      | SK Shieldus | Senior Researcher  |
+| [2025.12 - Till now]      | Peto Works  | Security Researcher |
+
 &nbsp;
 
+ 
 ## VULNERABILITY REPORTS
 <p data-ke-size="size16"><b>[2013] OCS (Order Communication System) at a Major Hospital in Changwon</b></p>
 
@@ -20,7 +25,9 @@
 
 
 ## ACHIEVEMENTS
-
+<p data-ke-size="size16">
+<b>[2025] 1th, Lisa-Thon 2025 Final </b>
+</p>
 <p data-ke-size="size16">
 <b>[2025] Pwn2Own Automotive Tokyo 2025</b> <small> Win a prize (Team SK Shieldus) </small>
 </p>
