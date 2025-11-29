@@ -26,7 +26,7 @@
 
 ## ACHIEVEMENTS
 <p data-ke-size="size16">
-<b>[2025] 1th, LisaThon Mobility Competition 2025 Final (Team 온천부글부글대작전) </b>
+<b>[2025] 1th, LisaThon Mobility Competition 2025 Final </b> <small> (Team 온천부글부글대작전) </small>
 </p>
 <p data-ke-size="size16">
 <b>[2025] Pwn2Own Automotive Tokyo 2025</b> <small> Win a prize (Team SK Shieldus) </small>
