@@ -12,7 +12,7 @@
 ## EXPERIENCE
 | 기간                     | 회사        | 직책               |
 | ------------------------ | ----------- | ------------------ |
-| [2024.04 - 2025.11]      | SK Shieldus | Senior Researcher  |
+| [2024.04 - 2025.11]      | SK Shieldus | Security Researcher  |
 | [2025.12 - Till now]      | Peto Works  | Security Researcher |
 
 &nbsp;
